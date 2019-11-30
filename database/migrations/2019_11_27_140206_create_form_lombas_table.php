@@ -28,8 +28,7 @@ class CreateFormLombasTable extends Migration
             $table->string('nama_instansi');
             $table->string('alamat_instansi');
             $table->string('cabang_olahraga');
-            $table->string('berkas_lomba');
-            $table->string('bukti_pendaftaran');
+            $table->string('kategori_olahraga');
             $table->timestamps();
         });
     }

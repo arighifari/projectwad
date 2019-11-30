@@ -4,9 +4,8 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8">
-                <h1 align="center" style="margin-top: 70px"> Welcome @guest @else {{ Auth::user()->name }} @endguest</h1>
-                <h3 align="center">Berani Lomba adalah website yang berisi <br> kumpulan-kumpulan <br>
-                    informasi lomba untuk <br> Universitas dan SMA/SMK sederajat</h3>
+                <h3 align="center" style="margin-top: 100px">Berani Lomba adalah situs web yang<br> menyediakan layanan informasi lomba untuk<br>
+                    SMA/SMK sederajat, sampai skala <br> Universitas sejak tahun 2019 untuk wilayah Jawa Barat</h3>
             </div>
         </div>
     </div>

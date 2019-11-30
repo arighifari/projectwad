@@ -18,7 +18,8 @@ class CreateLombasTable extends Migration
             $table->string('nama_lomba');
             $table->string('keterangan');
             $table->string('form_berkas');
-            $table->string('email_panitia');
+            $table->string('gambar');
+            $table->string('email_panitia')->nullable();
             $table->timestamps();
         });
     }

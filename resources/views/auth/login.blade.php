@@ -30,7 +30,6 @@
                             </div>
                             <div class="hr"></div>
                         </div>
-
                     </div>
                     </form>
                 </div>
